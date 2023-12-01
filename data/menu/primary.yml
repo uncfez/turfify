@@ -1,0 +1,23 @@
+links:
+  - title: Om föreningen
+    url: /news/
+    links:
+    - title: "Bli medlem"
+      url: /news/lorem-ipsum/
+  - title: Event
+    url: /projects/
+  - blank: false
+  - title: Klassiker och vandringspokal
+    url: /case-studies/
+    links: 
+    - title: "Västerbottens Turfklassiker"
+      url: /klassiker/
+    - title: "Vandringspokalen"
+      url: /vandringspokal"
+  - blank: false
+    title: Profilkläder
+    url: /publications/
+  - blank: false
+  - title: Vad är Turf?
+    url: /turf/
+  - blank: false
