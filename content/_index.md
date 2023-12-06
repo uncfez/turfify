@@ -16,19 +16,19 @@ hero:
     blank: false
 blocks:
   - type: latest
-    count: 9
+    count: 3
     show_more: true
     background: false
     section: posts
     heading:
-      title: Latest posts
+      title: Senaste inläggen
   - type: latest
     count: 3
     show_more: true
     background: false
     section: projects
     heading:
-      title: Latest projects
+      title: Träffar och aktiviteter
   - type: latest
     count: 3
     show_more: true
