@@ -6,7 +6,7 @@ title: Årets sista turfträff!
 description: ""
 image:
   src: /images/uploads/dsc_0200.jpg
-  credit: "Foto: UncleFester"
+  credit: "Foto: UncleFester<https://turfify.netlify.app>"
 ---
 Nya som gamla turfare hälsas välkomna till årets sista turfträff, vi ses på å Bont jobbade och Pike var på resa var det bara Cykeltalibanen som var på plats för överlämningen. Samtliga vinnares namn finns dock med på vandringspokalen.
 
