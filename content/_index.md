@@ -2,10 +2,10 @@
 isIndex: true
 title: Hem
 hero:
-  surtitle: Välkommen till 
-  title: Turf Västerbotten
+  surtitle: Välkommen till föreningen för turfare i
+  title: Västerbotten
   align: center
-  text: Föreningen för turfare i Västerbotten
+  text: " "
   cta:
     url: https://turfvasterbotten.se
     text: Bli medlem
